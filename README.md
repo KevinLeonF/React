@@ -1,2 +1,2 @@
 # Practica 3 
-## practicas-react
+## practicas con React
